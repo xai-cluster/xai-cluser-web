@@ -8,10 +8,9 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Blended AI Research Group
       image:
-        filename: welcome.jpg
+        filename: rcbm.png
       text: |
         <br>
         
