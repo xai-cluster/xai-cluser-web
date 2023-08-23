@@ -1,6 +1,8 @@
 ---
 title: "Interpretable Neural-Symbolic Concept Reasoning" is accepted at ICML 2023!
 date: 2023-04-20
+image:
+  focal_point: 'top'
 ---
 
 The paper "Interpretable Neural-Symbolic Concept Reasoning" has been accepted at ICML 2023!
