@@ -1,5 +1,5 @@
 ---
-title: "Interpretable Neural-Symbolic Concept Reasoning" is accepted at ICML 2023!
+title: Interpretable Neural-Symbolic Concept Reasoning is accepted at ICML 2023!
 date: 2023-04-20
 image:
   focal_point: 'top'
