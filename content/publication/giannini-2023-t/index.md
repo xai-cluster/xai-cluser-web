@@ -6,7 +6,7 @@ authors: ["Francesco Giannini", "Michelangelo Diligenti", "Marco Maggini", "Marc
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "Applied Intelligence
+publication: "Applied Intelligence"
 ---
 
 
