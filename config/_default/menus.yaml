@@ -13,9 +13,12 @@ main:
   - name: People
     url: people
     weight: 30
+  - name: Research #main fields we are currently working on, or that we are interested in explore more. With no technical details, just: if you are interested in working with us or you're anyhow working on something related, we can be in contact!
+    url: research
+    weight: 40
   - name: Publications
     url: publication
-    weight: 40
+    weight: 50
   - name: Contact
     url: contact
-    weight: 50
+    weight: 60
