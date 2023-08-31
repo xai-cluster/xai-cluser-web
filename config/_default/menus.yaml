@@ -4,18 +4,30 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
-    weight: 10
+#  - name: Tour
+#    url: tour
+#    weight: 10
   - name: News
     url: post
     weight: 20
   - name: People
     url: people
     weight: 30
+  - name: Research #main fields we are currently working on, or that we are interested in explore more. With no technical details, just: if you are interested in working with us or you're anyhow working on something related, we can be in contact!
+    url: research
+    weight: 30
+  - name: Presentations at Conference and Workshops: #we could upload the slides and/or advertise our participation (also future) to top-level conference
+    url: talks
+    weight: 30
+  - name: Events: #If we are organizing something, e.g. workshops or meet-up to advertise.. aka join to participate, be involved, listen..
+    url: events
+    weight: 30
   - name: Publications
     url: publication
     weight: 40
-  - name: Contact
+  - name: Software #We could link our public github or anyhow the codes provided with the accepted papers/models we have published.. aka use our code!
+    url: software
+    weight: 40
+  - name: Contact #we could set-up a google groups to send people updates for incoming events, talk, publications.. aka mailing list
     url: contact
     weight: 50
