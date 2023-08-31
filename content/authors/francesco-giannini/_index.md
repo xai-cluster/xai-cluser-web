@@ -1,54 +1,58 @@
 ---
 # Display name
-title: Pietro Barbiero
+title: Francesco Giannini
 
 # Full Name (for SEO)
-first_name: Pietro
-last_name: Barbiero
+first_name: Francesco
+last_name: Giannini
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Research Assistant
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Università della Svizzera italiana
-    url: 'https://www.usi.ch/'
-  - name: University of Cambridge
-    url: 'https://www.cst.cam.ac.uk/'
+  - name: Consorzio Interuniversitario Nazionale per l'Informatica
+    url: 'https://www.consorzio-cini.it/index.php/it/'
+  - name: University of Siena
+    url: 'https://www.diism.unisi.it/it'
 
 # Short bio (displayed in user profile at end of posts)
-bio: AI researcher with 5+ years of experience in deep learning, interpretability, and neural symbolic AI.
+bio: AI researcher with 5+ years of experience in neural-symbolic AI, explainable AI and knowledge graphs.
 
 interests:
   - Interpretable AI
   - Neural Symbolic AI
+  - Knowledge Graph Embeddings
 
 education:
   courses:
-    - course: Research Assistant
-      institution: Università della Svizzera Italiana, CH
-      year: 2023 – present
-    - course: PhD in Computer Science
-      institution: University of Cambridge, UK
-      year: 2020 – 2023
-    - course: M.Eng. in Mathematics
-      institution: Politecnico di Torino, IT
-      year: 2017 – 2019
-    - course: B.Eng. in Computer Science
-      institution: Politecnico di Torino, IT
-      year: 2013 – 2017
+    - course: Researcher
+      institution: CINI
+      year: 2021 – present
+    - course: PostDoc in Computer Science
+      institution: University of Siena, IT
+      year: 2019 – 2021
+    - course: PhD in Information Engineering and Mathematical Sciences
+      institution: University of Siena, IT
+      year: 2015 – 2018
+    - course: Master in Mathematics
+      institution: University of Siena, IT
+      year: 2012 – 2014
+    - course: Bachelor in Mathematics
+      institution: University of Siena, IT
+      year: 2009 – 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: globe
-    icon_pack: fas
-    link: https://www.pietrobarbiero.eu/
+#  - icon: globe
+#    icon_pack: fas
+#    link: https://www.pietrobarbiero.eu/
   - icon: envelope
     icon_pack: fas
     link: 'mailto:barbip@usi.ch'
