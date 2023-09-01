@@ -14,7 +14,7 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: 
+  - name: KU Leuven
     url: 
 
 
@@ -48,7 +48,7 @@ social:
     link: 'mailto:barbip@usi.ch'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/pietro_barbiero
+    link: https://twitter.com/giuseppe_marra
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=4gbToQoAAAAJ&hl
