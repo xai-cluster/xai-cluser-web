@@ -1,26 +1,18 @@
 ---
-title: People
-date: 2022-10-24
-
-type: landing
+title: Research
 
 sections:
-  - block: people
+  - block: markdown
+    id: research-1
     content:
-      title: Meet the Team
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-          - Principal Investigators
-          - Researchers
-          - Grad Students
-          - Administration
-          - Visitors
-          - Alumni
-      sort_by: Params.last_name
-      sort_ascending: true
-    design:
-      show_interests: false
-      show_role: true
-      show_social: true
+      title: Research Objecive 1
+      subtitle:
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+
+  - block: markdown
+    id: research-2
+    content:
+      title: Research Objecive 2
+      subtitle:
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 ---
