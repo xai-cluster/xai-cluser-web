@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Francesco Giannini
+title: Giuseppe Marra
 
 # Full Name (for SEO)
-first_name: Francesco
-last_name: Giannini
+first_name: Giuseppe
+last_name: Marra
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,10 +14,9 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Consorzio Interuniversitario Nazionale per l'Informatica
-    url: 'https://www.consorzio-cini.it/index.php/it/'
-  - name: University of Siena
-    url: 'https://www.diism.unisi.it/it'
+  - name: 
+    url: 
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: AI researcher with 5+ years of experience in neural-symbolic AI, explainable AI and knowledge graphs.
@@ -29,21 +28,12 @@ interests:
 
 education:
   courses:
-    - course: Researcher
-      institution: CINI
-      year: 2021 – present
-    - course: PostDoc in Computer Science
-      institution: University of Siena, IT
-      year: 2019 – 2021
-    - course: PhD in Information Engineering and Mathematical Sciences
-      institution: University of Siena, IT
-      year: 2015 – 2018
-    - course: Master in Mathematics
-      institution: University of Siena, IT
-      year: 2012 – 2014
-    - course: Bachelor in Mathematics
-      institution: University of Siena, IT
-      year: 2009 – 2012
+    - course: 
+      institution: 
+      year: 
+    - course: 
+      institution: 
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
