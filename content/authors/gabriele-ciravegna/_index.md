@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Francesco Giannini
+title: Gabriele Ciravegna
 
 # Full Name (for SEO)
-first_name: Francesco
-last_name: Giannini
+first_name: Gabriele
+last_name: Ciravegna
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,36 +14,36 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Consorzio Interuniversitario Nazionale per l'Informatica
-    url: 'https://www.consorzio-cini.it/index.php/it/'
-  - name: University of Siena
-    url: 'https://www.diism.unisi.it/it'
+  - name: Politecnico di Torino - DBDMG
+    url: 'https://dbdmg.polito.it/dbdmg_web/'
+#  - name: University of Siena
+#    url: 'https://www.diism.unisi.it/it'
 
 # Short bio (displayed in user profile at end of posts)
-bio: AI researcher with 5+ years of experience in neural-symbolic AI, explainable AI and knowledge graphs.
+bio: AI researcher with 5 years of experience in Interpretable AI, Explainable AI and Trustworthy AI.
 
 interests:
   - Interpretable AI
-  - Neural Symbolic AI
-  - Knowledge Graph Embeddings
+  - Trustworthy AI
+  - Explainable AI
 
 education:
   courses:
-    - course: Researcher
-      institution: CINI
+    - course: PostDoc in Computer Engineering
+      institution: Politecnico
       year: 2021 – present
     - course: PostDoc in Computer Science
-      institution: University of Siena, IT
-      year: 2019 – 2021
-    - course: PhD in Information Engineering and Mathematical Sciences
-      institution: University of Siena, IT
-      year: 2015 – 2018
-    - course: Master in Mathematics
-      institution: University of Siena, IT
-      year: 2012 – 2014
-    - course: Bachelor in Mathematics
-      institution: University of Siena, IT
-      year: 2009 – 2012
+      institution: Université Cote d'Azur, FR
+      year: 2021 – 2023
+    - course: PhD in Smart Computing
+      institution: University of Florence, IT
+      year: 2018 – 2021
+    - course: Master in Computer Engineering
+      institution: Politecnico di Torino, IT
+      year: 2016 – 2018
+    - course: Bachelor in Computer Engineering
+      institution: Politecnico di Torino, IT
+      year: 2013 – 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
