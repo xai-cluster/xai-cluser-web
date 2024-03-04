@@ -10,7 +10,7 @@ last_name: Marra
 superuser: false
 
 # Role/position
-role: Researcher
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:

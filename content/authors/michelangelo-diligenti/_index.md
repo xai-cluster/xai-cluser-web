@@ -1,21 +1,19 @@
 ---
 # Display name
-title: Francesco Giannini
+title: Michelangelo Diligenti
 
 # Full Name (for SEO)
-first_name: Francesco
-last_name: Giannini
+first_name: Michelangelo
+last_name: Diligenti
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Researcher
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Consorzio Interuniversitario Nazionale per l'Informatica
-    url: 'https://www.consorzio-cini.it/index.php/it/'
   - name: University of Siena
     url: 'https://www.diism.unisi.it/it'
 
@@ -29,21 +27,12 @@ interests:
 
 education:
   courses:
-    - course: Researcher
-      institution: CINI
-      year: 2021 – present
-    - course: PostDoc in Computer Science
-      institution: University of Siena, IT
-      year: 2019 – 2021
-    - course: PhD in Information Engineering and Mathematical Sciences
-      institution: University of Siena, IT
-      year: 2015 – 2018
-    - course: Master in Mathematics
-      institution: University of Siena, IT
-      year: 2012 – 2014
-    - course: Bachelor in Mathematics
-      institution: University of Siena, IT
-      year: 2009 – 2012
+    - course: 
+      institution: 
+      year: 
+    - course: 
+      institution: 
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -86,8 +75,8 @@ user_groups:
   - Researchers
 ---
 
-I am Research Assistant at the Università della Svizzera Italiana (Switzerland). 
-My research activity focuses on interpretable artificial intelligence, deep learning, and 
-neuro-symbolic models. 
-My current projects are related to interpretable neural reasoning, 
-explainable AI theory, and AI-assisted conjectures for abstract mathematics.
+Michelangelo Diligenti received his Ph.D. degree in 2002 from the University of Florence, Italy. 
+Currently, he is Assistant Professor at the University of Siena, Italy, where he teaches the course on Software Architecture and Design. 
+Since 2003, he has been collaborating with Google Inc., working on improving the ranking algorithms for web search. 
+His main research interests are in the field of Machine Learning and, in particular, in aspects regarding Integration of Logic and Learning, 
+Learning-to-Rank and Statistical Relational Learning.

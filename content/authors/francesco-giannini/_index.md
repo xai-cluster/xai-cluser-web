@@ -55,19 +55,19 @@ social:
 #    link: https://www.pietrobarbiero.eu/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:barbip@usi.ch'
+    link: 'mailto:francesco.giannini@unisi.it'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/pietro_barbiero
+    link: https://twitter.com/francesco_giannini
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=4gbToQoAAAAJ&hl
+    link: https://scholar.google.com/citations?user=KT3SRqgAAAAJ&hl=it
   - icon: github
     icon_pack: fab
-    link: https://github.com/pietrobarbiero
+    link: https://github.com/fragiannini
   - icon: linkedin
     icon_pack: fab
-    link: http://www.linkedin.com/in/pietro-barbiero-5804a2111
+    link: https://www.linkedin.com/in/francesco-giannini-48631028b/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -86,8 +86,7 @@ user_groups:
   - Researchers
 ---
 
-I am Research Assistant at the Università della Svizzera Italiana (Switzerland). 
-My research activity focuses on interpretable artificial intelligence, deep learning, and 
-neuro-symbolic models. 
-My current projects are related to interpretable neural reasoning, 
-explainable AI theory, and AI-assisted conjectures for abstract mathematics.
+I am a researcher at the CINI (Consorzio Interuniversitario Nazionale per l’Informatica). 
+My research interests mainly focus on methodologies to integrate Mathematical Logic theories and Machine Learning techniques. 
+In particular, I am interested in neuro-symbolic approaches where the domain of discourse includes relational structures expressed by logical constraints, 
+eventually under vague and uncertain conditions.
