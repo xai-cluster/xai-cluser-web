@@ -10,7 +10,7 @@ last_name: Giannini
 superuser: false
 
 # Role/position
-role: Researcher
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -23,14 +23,14 @@ organizations:
 bio: AI researcher with 5+ years of experience in neural-symbolic AI, explainable AI and knowledge graphs.
 
 interests:
-  - Interpretable AI
+  - Explainable AI
   - Neural Symbolic AI
   - Knowledge Graph Embeddings
 
 education:
   courses:
     - course: Researcher
-      institution: CINI
+      institution: CINI, IT
       year: 2021 – present
     - course: PostDoc in Computer Science
       institution: University of Siena, IT

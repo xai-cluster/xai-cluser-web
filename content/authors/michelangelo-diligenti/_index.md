@@ -44,19 +44,13 @@ social:
 #    link: https://www.pietrobarbiero.eu/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:barbip@usi.ch'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/pietro_barbiero
+    link: 'mailto:michelangelo.diligenti@unisi.it'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=4gbToQoAAAAJ&hl
+    link: https://scholar.google.com/citations?user=qI-LOjIAAAAJ&hl=it&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/pietrobarbiero
-  - icon: linkedin
-    icon_pack: fab
-    link: http://www.linkedin.com/in/pietro-barbiero-5804a2111
+    link: https://github.com/diligmic
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

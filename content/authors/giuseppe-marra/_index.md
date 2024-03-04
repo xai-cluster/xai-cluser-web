@@ -45,19 +45,19 @@ social:
 #    link: https://www.pietrobarbiero.eu/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:barbip@usi.ch'
+    link: 'mailto:giuseppe.marra@kuleuven.be'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/giuseppe_marra
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=4gbToQoAAAAJ&hl
+    link: https://scholar.google.com/citations?user=BBcsk7MAAAAJ&hl=it&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/pietrobarbiero
+    link: https://github.com/GiuseppeMarra
   - icon: linkedin
     icon_pack: fab
-    link: http://www.linkedin.com/in/pietro-barbiero-5804a2111
+    link: https://www.linkedin.com/in/giuseppemarra/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -76,8 +76,12 @@ user_groups:
   - Researchers
 ---
 
-I am Research Assistant at the Università della Svizzera Italiana (Switzerland). 
-My research activity focuses on interpretable artificial intelligence, deep learning, and 
-neuro-symbolic models. 
-My current projects are related to interpretable neural reasoning, 
-explainable AI theory, and AI-assisted conjectures for abstract mathematics.
+I am an Assistant Professor at the Department of Computer Science, KU Leuven, where I am part of the Declarative Languages and Artificial 
+Intelligence (DTAI) research group. I was an FWO Post-Doc Fellow on the project “Deep Statistical Relational Learning”. 
+I obtained my PhD at the University of Florence, Italy, in 2020 under the supervision of Prof. Dr. Marco Gori. 
+During my PhD, I was a visiting student at KU Leuven, Belgium, and CTU Prague, Czech Republic. 
+I obtained both the Bachelor and Master degrees in ICT Engineering at the University Mediterranea of Reggio Calabria, Italy.
+#
+My research interests are about the integration between neural computation and relational reasoning, with a particular focus 
+on logical and probabilistic reasoning. Moreover, I am interested in the intersections of neural symbolic with Graph 
+Neural Networks and Natural Language Processing.

@@ -10,7 +10,7 @@ last_name: Ciravegna
 superuser: false
 
 # Role/position
-role: Researcher
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -55,19 +55,19 @@ social:
 #    link: https://www.pietrobarbiero.eu/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:barbip@usi.ch'
+    link: 'mailto:gabriele.ciravegna@polito.it'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/pietro_barbiero
+    link: https://twitter.com/CiraGabriele
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=4gbToQoAAAAJ&hl
+    link: https://scholar.google.com/citations?user=-k0H_DIAAAAJ&hl=it&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/pietrobarbiero
+    link: https://github.com/gabrieleciravegna
   - icon: linkedin
     icon_pack: fab
-    link: http://www.linkedin.com/in/pietro-barbiero-5804a2111
+    link: https://www.linkedin.com/in/gabriele-ciravegna-5a1130124/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -86,8 +86,10 @@ user_groups:
   - Researchers
 ---
 
-I am Research Assistant at the Università della Svizzera Italiana (Switzerland). 
-My research activity focuses on interpretable artificial intelligence, deep learning, and 
-neuro-symbolic models. 
-My current projects are related to interpretable neural reasoning, 
-explainable AI theory, and AI-assisted conjectures for abstract mathematics.
+I am a Postdoctoral Researcher in the DBDMG team of Politecnico di Torino, dedicated to advancing Artificial Intelligence. 
+My work focuses on making Deep Neural Networks not only more powerful but also Understandable and Trustworthy.
+#
+Previously, I have been working as a PostDoc in the MAASAI team of Inria at Sophia Antipolis (France), from 2022-2023. 
+In 2022, I received the Ph.D. degree with honours from the University of Florence under the supervision of Professor Marco Gori. 
+In 2018 I received a master’s degree in Computer Engineering with honours at the Polytechnic of Turin. Besides machine learning, 
+I also like football, volleyball, and playing the piano.
