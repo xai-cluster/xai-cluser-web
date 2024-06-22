@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Michelangelo Diligenti
+title: Alberto Termine
 
 # Full Name (for SEO)
-first_name: Michelangelo
-last_name: Diligenti
+first_name: Alberto
+last_name: Termine
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Siena
-    url: 'https://www.diism.unisi.it/it'
+  - name: Universita' della Svizzera Italiana
+    url: 'https://www.usi.ch/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: AI researcher with 5+ years of experience in neural-symbolic AI, explainable AI and knowledge graphs.
+bio: to write.
+
 
 interests:
-  - Interpretable AI
-  - Neural Symbolic AI
-  - Knowledge Graph Embeddings
+  - Explainable AI
+  - Phylosophy of AI
 
 education:
   courses:
@@ -44,13 +44,13 @@ social:
 #    link: https://www.pietrobarbiero.eu/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:michelangelo.diligenti@unisi.it'
+    link: 'mailto:alberto.termine@idsia.ch'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=qI-LOjIAAAAJ&hl=it&oi=ao
+    link: https://scholar.google.com/citations?user=BTluw7sAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/diligmic
+    link: https://github.com/albertotermine
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,8 +69,4 @@ user_groups:
   - Researchers
 ---
 
-Michelangelo Diligenti received his Ph.D. degree in 2002 from the University of Florence, Italy. 
-Currently, he is Assistant Professor at the University of Siena, Italy, where he teaches the course on Software Architecture and Design. 
-Since 2003, he has been collaborating with Google Inc., working on improving the ranking algorithms for web search. 
-His main research interests are in the field of Machine Learning and, in particular, in aspects regarding Integration of Logic and Learning, 
-Learning-to-Rank and Statistical Relational Learning.
+Alberto Termine is a postdoctoral researcher at the Universita' della Svizzera Italiana. His research interests include Explainable AI and Phylosophy of AI.

@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Blended AI Research Group
+title: Swiss XAI Cluster
 date: 2022-10-24
 type: landing
 
@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Blended AI Research Group
+        Swiss XAI Cluster
       image:
         filename: rcbm.png
       text: |
         <br>
         
-        The **Blended AI Research Group** is an international research center specialized in **trustworthy AI**
-        models integrating interpretable, neural-symbolic, and deep learning systems.
+        The **Swiss XAI Cluster** is an Swiss network of young researchers specialized in **Explainable AI**.
   
   - block: collection
     content:
