@@ -10,7 +10,7 @@ sections:
       title: |
         Swiss XAI Cluster
       image:
-        filename: rcbm.png
+        filename: causalcem.jpg
       text: |
         <br>
         
