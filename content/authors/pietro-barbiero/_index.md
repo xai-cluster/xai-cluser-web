@@ -28,9 +28,12 @@ interests:
 
 education:
   courses:
+    - course: Postdoctoral Researcher
+      institution: Università della Svizzera Italiana, CH
+      year: Nov 2023 - present
     - course: Research Assistant
       institution: Università della Svizzera Italiana, CH
-      year: 2023 – present
+      year: Jun 2023 - Nov 2023
     - course: PhD in Computer Science
       institution: University of Cambridge, UK
       year: 2020 – 2023

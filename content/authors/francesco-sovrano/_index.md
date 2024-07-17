@@ -31,12 +31,21 @@ interests:
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: Early-Career Fellow
+      institution: Collegium Helveticum / ETH Zurich, CH
+      year: 2024-2025
+    - course: Senior Researcher
+      institution: University of Zurich, CH
+      year: 2023-2024
+    - course: Research Assistant
+      institution: University of Zurich, CH
+      year: 2023
+    - course: Ph.D. Data Science and Computation
+      institution: University of Bologna, IT
+      year: 2018-2022
+    - course: M.Sc. Computer Science
+      institution: University of Bologna, IT
+      year: 2016-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -23,16 +23,20 @@ bio: to write.
 
 interests:
   - Explainable AI
-  - Interventions in interpretable AI
+  - Interpretability
+  - AI Safety
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: PhD in Computer Science
+      institution: Universita' della Svizzera Italiana, CH
+      year: 2023-present
+    - course: MPhil in Computer Science
+      institution: University of Cambridge, UK
+      year: 2022-2023
+    - course: B.Eng in Computer Science   
+      institution: Università degli Studi di Udine, IT
+      year: 2018-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
