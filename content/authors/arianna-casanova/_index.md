@@ -23,16 +23,31 @@ bio: to write.
 
 interests:
   - Explainable AI
-  - Phylosophy of AI
+  - Deep learning
+  - Causal Inference
+  - Probabilistic modeling
+  - Imprecise probabilities 
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: Postdoctoral Researcher
+      institution: University of Liechtenstein, Liechtenstein (LI) 
+      year: 2024 – Present
+    - course: PhD in Computer Science
+      institution: Dalle Molle Institute for Artificial Intelligence (IDSIA USI-SUPSI), Switzerland (CH)
+      year: 2018 – 2023
+    - course: Data Science Analyst
+      institution: Accenture Digital Advanced Analytics, Italy (IT)
+      year: 2016 – 2018
+    - course: Data Science Intern
+      institution: Accenture Digital Advanced Analytics, Italy (IT)
+      year: 2015 – 2016
+    - course: MSc in Mathematics
+      institution: University of Milan, Italy (IT)
+      year: 2013 – 2015
+    - course: BSc in Mathematics
+      institution: University of Milan, Italy (IT)
+      year: 2010 - 2013
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,4 +84,7 @@ user_groups:
   - Researchers
 ---
 
+Arianna Casanova Flores is a postdoctoral researcher at the University of Liechtenstein in the Department of Data Science and Artificial Intelligence. Her current research focuses on the intersection of causal inference, deep learning, and explainable AI, with a particular emphasis on advancing the development and application of causal inference and explainable AI techniques within deep learning frameworks. 
+
+She holds both a bachelor's and a master's degree in mathematics from the University of Milan and has prior professional experience as a data scientist in a consulting firm. She obtained her PhD from the Dalle Molle Institute for Artificial Intelligence (IDSIA USI-SUPSI) in Lugano (CH), where her research centered on theoretical aspects of artificial intelligence, specifically on the formalism of imprecise probabilities.
 
