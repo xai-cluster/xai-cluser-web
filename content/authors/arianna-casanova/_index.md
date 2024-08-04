@@ -84,7 +84,7 @@ user_groups:
   - Researchers
 ---
 
-Arianna Casanova Flores is a postdoctoral researcher at the University of Liechtenstein in the Department of Data Science and Artificial Intelligence. Her current research focuses on the intersection of causal inference, deep learning, and explainable AI, with a particular emphasis on advancing the development and application of causal inference and explainable AI techniques within deep learning frameworks. 
+Arianna Casanova Flores is a postdoctoral researcher in the Department of Data Science and Artificial Intelligence at the University of Liechtenstein, working under the supervision of Professor Schneider.  Her current research focuses on the intersection of causal inference, deep learning, and explainable AI, with a particular emphasis on advancing the development and application of causal inference and explainable AI techniques within deep learning frameworks. 
 
 She holds both a bachelor's and a master's degree in mathematics from the University of Milan and has prior professional experience as a data scientist in a consulting firm. She obtained her PhD from the Dalle Molle Institute for Artificial Intelligence (IDSIA USI-SUPSI) in Lugano (CH), where her research centered on theoretical aspects of artificial intelligence, specifically on the formalism of imprecise probabilities.
 
