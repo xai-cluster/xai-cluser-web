@@ -12,9 +12,9 @@ sections:
 #        To contact the Swiss XAI Cluster.
       email: swiss-xai-cluster@gmail.com
 #      phone: N/A
-      address:
-        street: Via La Santa 1
-        city: Lugano
+#      address:
+#        street: Via La Santa 1
+#        city: Lugano
 #        region: CA
         postcode: '6962'
         country: Switzerland
@@ -23,9 +23,9 @@ sections:
         latitude: ' 46.0112565'
         longitude: '8.9606114'
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+#      office_hours:
+#        - 'Monday 10:00 to 13:00'
+#        - 'Wednesday 09:00 to 10:00'
 #      appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
