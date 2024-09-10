@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Arianna Casanova Flores
+title: Arianna Casanova
 
 # Full Name (for SEO)
 first_name: Arianna
-last_name: Casanova Flores
+last_name: Casanova
 
 # Is this the primary user of the site?
 superuser: false
