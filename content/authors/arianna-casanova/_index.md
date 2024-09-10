@@ -62,8 +62,8 @@ social:
     link: 'mailto:arianna.casanova@uni.li'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&authuser=1&user=W7tHGkYAAAAJ
- - icon: github
+    link: https://scholar.google.com/citations?hl=en&user=W7tHGkYAAAAJ
+  - icon: github
     icon_pack: fab
     link: https://github.com/4r14nn4
 # Link to a PDF of your resume/CV from the About widget.
