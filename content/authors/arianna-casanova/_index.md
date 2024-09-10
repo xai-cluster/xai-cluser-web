@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Arianna Casanova
+title: Arianna Casanova Flores
 
 # Full Name (for SEO)
 first_name: Arianna
