@@ -16,9 +16,9 @@ sections:
 #        street: Via La Santa 1
 #        city: Lugano
 #        region: CA
-        postcode: '6962'
-        country: Switzerland
-        country_code: CH
+#        postcode: '6962'
+#        country: Switzerland
+#        country_code: CH
       coordinates:
         latitude: ' 46.0112565'
         longitude: '8.9606114'
