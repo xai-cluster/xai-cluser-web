@@ -30,24 +30,17 @@ interests:
 
 education:
   courses:
-    - course: Researcher
-      institution: Dalle Molle Institute for Artificial Intelligence (IDSIA USI-SUPSI), Lugano, CH
-      year: 2024 - present
-    - course: Adjunct Research Fellow 
-      institution: Munich University of Technology (TUM), Munich, GE
-      year: 2024 - present
-    - course: Assistant Researcher 
-      institution: Dalle Molle Institute for Artificial Intelligence (IDSIA USI-SUPSI), Lugano, CH
-      year: 2023-2024
-    - course: PhD in Logic 
-      institution: Department of Philosophy, University of Milan, Milan, IT
-      year: 2019-2023
-    - course: MA in Philosophy (Logic and Philosophy of Science) 
-      institution: Vita-Salute San Raffaele University, Milan, IT
-      year: 2017-2019
-    - course: BA in Philosophy (Logic, Language and Cognition) 
-      institution: Vita-Salute San Raffaele University, Milan, IT
-      year: 2014 - 2017
+    - course: PhD in Computer Science
+    - institution: ETH Zürich, Zürich (CH)
+    - year: 2007 — 2011
+  courses:
+    - course:Master of Adv. Studies in Management, Technology and Innovation
+    - institution: ETH Zürich, Zürich (CH)
+    - year: 2008 — 2011
+  courses:
+    - course:MSc. in Computer Science
+    - institution: ETH Zürich, Zürich (CH)
+    - year: 2000 — 2004
 
   
 # Social/Academic Networking
