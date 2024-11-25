@@ -27,30 +27,17 @@ interests:
 - AI Governance
 - Human-Computer Interaction
 
- - block: career_education
-    content:
-      title: Career & Education
-      career_details:
-        - position: Associate Professor
-          organization: University of Liechtenstein
-          year: 2016 – Present
-        - position: Research Scientist
-          organization: IBM Research Lab
-          year: 2012 – 2016
-        - position: Data Scientist
-          organization: ABB Research Lab
-          year: 2009 – 2012
-      education:
-        courses:
-          - course: PhD in Computer Science
-            institution: ETH Zürich, Zürich (CH)
-            year: 2007 — 2011
-          - course: Master of Adv. Studies in Management, Technology and Innovation
-            institution: ETH Zürich, Zürich (CH)
-            year: 2008 — 2011
-          - course: MSc. in Computer Science
-            institution: ETH Zürich, Zürich (CH)
-            year: 2000 — 2004
+career:
+  courses:
+    - course: PhD in Computer Science
+      institution: ETH Zürich, Zürich (CH)
+      year: 2007 - 2011
+    - course: Master of Adv. Studies in Management, Technology and Innovation 
+      institution: ETH Zürich, Zürich (CH)
+      year: 2008 - 2011
+    - course: MSc. in Computer Science 
+      institution: ETH Zürich, Zürich (CH)
+      year: 2000 - 2004
 
   
 # Social/Academic Networking
