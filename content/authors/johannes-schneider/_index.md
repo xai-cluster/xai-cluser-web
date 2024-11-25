@@ -27,7 +27,6 @@ interests:
 - AI Governance
 - Human-Computer Interaction
 
-
 career:
   positions:
     - title:Associate Professor in Information Systems
@@ -53,6 +52,7 @@ career:
     - title:Software Engineer
     - institution: AutoForm Engineering, Pfäffikon (CH)
     - year: 2005 — 2006
+
 education:
   courses:
     - course:PhD in Computer Science
