@@ -25,11 +25,11 @@ interests:
 - Explainable AI
 - Personalized AI Systems
 - AI Governance
-- Human-Computer Interaction
+- Human-Computer Interaction 
 
 education:
   courses:
-    - course:PhD in Computer Science
+    - course: PhD in Computer Science
     - institution: ETH Zürich, Zürich (CH)
     - year: 2007 — 2011
   courses:
