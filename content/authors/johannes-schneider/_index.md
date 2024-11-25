@@ -29,14 +29,15 @@ interests:
 
 education:
   title: Career & Education
-  courses:
-    - course: PhD in Computer Science
+  courses: []
+  career_details:
+    - position: PhD in Computer Science
       institution: ETH Zürich, Zürich (CH)
       year: 2007 - 2011
-    - course: Master of Adv. Studies in Management, Technology and Innovation 
+    - position: Master of Adv. Studies in Management, Technology and Innovation 
       institution: ETH Zürich, Zürich (CH)
       year: 2008 - 2011
-    - course: MSc. in Computer Science 
+    - position: MSc. in Computer Science 
       institution: ETH Zürich, Zürich (CH)
       year: 2000 - 2004
 
