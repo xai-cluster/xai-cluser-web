@@ -17,7 +17,7 @@ organizations:
     url: 'https://www.uni.li/en'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Johannes Schneider is an Associate Professor in Data Science and Artificial Intelligence(AI) at the University of Liechtenstein. He worked at industrial research labs of IBM and ABB. He obtained his Master's degree, PhD in Computer Science and a Master of Advanced Studies in Management, Technology, and Economics at ETH Zurich. His research, honored with multiple best paper awards, covers both theoretical studies and practical applications of data science and AI. It has been published within and outside the computer science community.
+bio: Johannes Schneider is an Associate Professor in Data Science and Artificial Intelligence (AI) at the University of Liechtenstein. He worked at industrial research labs of IBM and ABB. He obtained his Master's degree, PhD in Computer Science and a Master of Advanced Studies in Management, Technology, and Economics at ETH Zurich. His research, honored with multiple best paper awards, covers both theoretical studies and practical applications of data science and AI. It has been published within and outside the computer science community.
 
 
 interests:
