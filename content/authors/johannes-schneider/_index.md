@@ -28,20 +28,6 @@ interests:
 - Human-Computer Interaction
 
 
-education:
-  courses:
-    - course: PhD in Computer Science
-    - institution: ETH Zürich, Zürich (CH)
-    - year: 2007 — 2011
-  courses:
-    - course:Master of Adv. Studies in Management, Technology and Innovation
-    - institution: ETH Zürich, Zürich (CH)
-    - year: 2008 — 2011
-  courses:
-    - course:MSc. in Computer Science
-    - institution: ETH Zürich, Zürich (CH)
-    - year: 2000 — 2004
-
   
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
