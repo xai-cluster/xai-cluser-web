@@ -28,14 +28,32 @@ interests:
 - Human-Computer Interaction
 
 education:
-  details:
-    - position: PhD in Computer Science
+  courses:
+    - course: Associate Professor in Information Systems
+      institution: University of Liechtenstein, Liechtenstein (LI)
+      year: 2016 - Present
+    - course: Lecturer
+      institution: University of Zurich, Zürich (CH)
+      year: 2015 - Present
+    - course: Data Analyst
+      institution: Zurich Insurances, Zürich (CH)
+      year: 2013 - Present
+    - course: Scientist
+      institution: ABB Corporate Research, Zürich (CH)
+      year: 2014 - 2016
+    - course: PostDoc in Information Analytics
+      institution: IBM Research, Rüschlikon (CH)
+      year: 2011 - 2012
+    - course: PhD in Computer Science
       institution: ETH Zürich, Zürich (CH)
       year: 2007 - 2011
-    - position: Master of Adv. Studies in Management, Technology and Innovation 
+    - course: Master of Adv. Studies in Management, Technology and Innovation 
       institution: ETH Zürich, Zürich (CH)
       year: 2008 - 2011
-    - position: MSc. in Computer Science 
+    - course: Software Engineer
+      institution: AutoForm Engineering, Pfäffikon (CH)
+      year: 2005 - 2006
+    - course: MSc. in Computer Science 
       institution: ETH Zürich, Zürich (CH)
       year: 2000 - 2004
 
