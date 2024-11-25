@@ -27,7 +27,8 @@ interests:
 - AI Governance
 - Human-Computer Interaction
 
-career:
+education:
+  title: Career & Education
   courses:
     - course: PhD in Computer Science
       institution: ETH Zürich, Zürich (CH)
