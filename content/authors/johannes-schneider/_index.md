@@ -27,32 +27,6 @@ interests:
 - AI Governance
 - Human-Computer Interaction
 
-career:
-  positions:
-    - title:Associate Professor in Information Systems
-    - institution: University of Liechtenstein, Liechtenstein (LI) 
-    - year: 2016 – Present
-  positions:
-    - title:Lecturer
-    - institution: University of Zurich, Zürich (CH) 
-    - year: 2015 – Present
-  positions:
-    - title:Data Analyst
-    - institution: Zurich Insurances, Zürich (CH)
-    - year: 2013 — Present
-  positions:
-    - title:Scientist
-    - institution: ABB Corporate Research, Zürich (CH)
-    - year: 2014 — 2016
-  positions:
-    - title:PostDoc in Information Analytics
-    - institution: IBM Research, Rüschlikon (CH)
-    - year: 2011 — 2012
-  positions::
-    - title:Software Engineer
-    - institution: AutoForm Engineering, Pfäffikon (CH)
-    - year: 2005 — 2006
-
 education:
   courses:
     - course:PhD in Computer Science
