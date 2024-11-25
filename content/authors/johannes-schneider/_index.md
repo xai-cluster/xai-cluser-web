@@ -27,6 +27,17 @@ interests:
 - AI Governance
 - Human-Computer Interaction
 
+education:
+  courses:
+    - course: PhD in Computer Science
+      institution: ETH Zürich, Zürich (CH)
+      year: 2007 - 2011
+    - course: Master of Adv. Studies in Management, Technology and Innovation 
+      institution: ETH Zürich, Zürich (CH)
+      year: 2008 - 2011
+    - course: MSc. in Computer Science 
+      institution: ETH Zürich, Zürich (CH)
+      year: 2000 - 2004
 
   
 # Social/Academic Networking
