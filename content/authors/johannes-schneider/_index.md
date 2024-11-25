@@ -28,9 +28,7 @@ interests:
 - Human-Computer Interaction
 
 education:
-  title: Career & Education
-  courses: []
-  career_details:
+  details:
     - position: PhD in Computer Science
       institution: ETH Zürich, Zürich (CH)
       year: 2007 - 2011
