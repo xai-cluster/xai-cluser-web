@@ -27,11 +27,6 @@ interests:
 - AI Governance
 - Human-Computer Interaction
 
-career:
-  courses:
-    - course: Researcher
-      institution: Dalle Molle Institute for Artificial Intelligence (IDSIA USI-SUPSI), Lugano, CH
-      year: 2024 - present
 
 education:
   courses:
